@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.pt
+*.pth
+*.npz
+outputs/
+.idea/
+.vscode/
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
